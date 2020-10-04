@@ -14,7 +14,7 @@ export default
         contactEmail:'thejustinstonks@gmail.com',
         // Add Your About Text Here
         abouttext: "I am always exploring the possiblites with what you can do with your phone, computer and the internet. Anything to do with coding, design, marketing, ecommerce and coffee.",
-        aboutImage:'https://source.unsplash.com/user/jbhalla28/HRXTuNTCCVo/500x250',
+        aboutImage:'https://source.unsplash.com/user/jbhalla28/HRXTuNTCCVo/250x500',
        //Change This To Hide The Image of About Section (True Or False)
        ShowAboutImage:true,//true or false (Change Here)
        // Change Projects Here 
