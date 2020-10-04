@@ -13,7 +13,7 @@ export default
         //Contact Email
         contactEmail:'thejustinstonks@gmail.com',
         // Add Your About Text Here
-        abouttext: "I am always exploring the possiblites with what you can do with your phone, computer and the internet. I am involved with coding, design, marketing, e-comerce and investing in the stock market.",
+        abouttext: "I am always exploring the possiblites with what you can do with your phone, computer and the internet. Anything to do with coding, design, marketing, ecommerce and coffee.",
         aboutImage:'',
        //Change This To Hide The Image of About Section (True Or False)
        ShowAboutImage:false,//true or false (Change Here)
