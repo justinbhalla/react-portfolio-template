@@ -409,10 +409,12 @@ height: 32em;
 }
 
 .contact{
+  color:white;
   top:10em;
   left:8em;
 }
 .contact h1{
+  color:white;
   font-size: 8em;
 }
 .contact .email{
