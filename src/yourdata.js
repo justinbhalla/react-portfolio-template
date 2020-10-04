@@ -77,6 +77,10 @@ export default
             {
                 name: 'Instagram',
                 url: 'https://www.instagram.com/'
+            },
+            {
+                name: 'Youtube',
+                url: 'https://www.youtube.com/thejustinstonks/'
             }
 
         ]
