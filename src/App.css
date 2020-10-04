@@ -91,7 +91,7 @@ li .link:hover{
 }
 .header-title button a{
   font-family: 'Open Sans', sans-serif;
-  color:white;
+  color:black;
   text-decoration: none;
 }
 .header-title{
@@ -102,6 +102,7 @@ li .link:hover{
   top:2em;
 }
 .about{
+  color:white;
   display: flex;
   flex-direction: row;
 }
