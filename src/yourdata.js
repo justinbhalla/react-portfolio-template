@@ -6,7 +6,7 @@ export default
         headerTagline: [//Line 1 For Header
                         'Hi 👋 You found me! I am Justin Stonks.',
                         //Line 2 For Header
-                        ' ',
+                        'I fix all of your problems with creative solutions.',
                         //Line 3 For Header
                         ''
     ],
