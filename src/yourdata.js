@@ -16,7 +16,7 @@ export default
         abouttext: "I am always exploring the possiblites with what you can do with your phone, computer and the internet. I am involved with coding, design, marketing, e-comerce and investing in the stock market.",
         aboutImage:'',
        //Change This To Hide The Image of About Section (True Or False)
-       ShowAboutImage:true,//true or false (Change Here)
+       ShowAboutImage:false,//true or false (Change Here)
        // Change Projects Here 
        projects:[
            {
